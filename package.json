@@ -6,6 +6,7 @@
   "description": "Bot all the things™",
   "dependencies": {
     "hubot": "^2.12.0",
+    "hubot-9gag": "^0.2.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
