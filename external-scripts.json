@@ -6,5 +6,7 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-slack-google-auth",
+  "hubot-slack-gcal"
 ]
