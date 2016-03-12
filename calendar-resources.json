@@ -1,5 +1,5 @@
 {
-  "workboxes": {
+  "workbox": {
     "hyper.no_3639323337343630323036@resource.calendar.google.com": ["workbox 1"],
     "hyper.no_36393336303139372d323931@resource.calendar.google.com": ["workbox 2"],
     "hyper.no_3639343831313332373535@resource.calendar.google.com": ["workbox 3"],
@@ -7,7 +7,7 @@
     "hyper.no_36393635303437372d313938@resource.calendar.google.com": ["workbox 5"],
     "hyper.no_39303734353335372d373034@resource.calendar.google.com": ["workbox 6"]
   },
-  "meeting rooms": {
+  "meeting room": {
     "hyper.no_2d38303235353634322d343333@resource.calendar.google.com": ["meeting room A"],
     "hyper.no_3433343634353930373538@resource.calendar.google.com": ["meeting room B"],
     "hyper.no_2d3939303738343033353832@resource.calendar.google.com": ["meeting room C"]
