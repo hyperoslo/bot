@@ -18,5 +18,8 @@
     "hubot-slack": "^3.3.0",
     "hubot-slack-google-auth": "^0.1.1",
     "hubot-slack-gcal": "^0.1.0"
+  },
+  "engines": {
+    "node": "5.x"
   }
 }
