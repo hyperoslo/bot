@@ -20,6 +20,6 @@
     "hubot-slack-gcal": "^0.1.0"
   },
   "engines": {
-    "node": "5.x"
+    "node": "6.x"
   }
 }
